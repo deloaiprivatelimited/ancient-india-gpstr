@@ -14,10 +14,12 @@
 │   ├── bulk_generate_audio.py
 │   ├── chapters.json
 │   ├── clean_punctuation_bulk.py
+│   ├── cmds.txxt
 │   ├── create_sequence_josn.py
 │   ├── create_sequence_pdf.py
 │   ├── delete_backups.py
 │   ├── delete_chunks.py
+│   ├── end_v0.mp4
 │   ├── estimate_mins.py
 │   ├── fb_v2.py
 │   ├── folder_tree.txt
@@ -26,6 +28,9 @@
 │   ├── generate_Elite_bulk.py
 │   ├── generate_master_data.py
 │   ├── generate_modules.py
+│   ├── generate_vedios.py
+│   ├── generate_v_progess.py
+│   ├── intro_v0.mp4
 │   ├── requirements.txt
 │   ├── run_order.txt
 │   ├── social science - Ancient Indian histroy.csv
