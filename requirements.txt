@@ -7,3 +7,7 @@ openai
 google-cloud-texttospeech
 google-api-core
 numpy
+moviepy
+playwright
+imageio
+imageio-ffmpeg
