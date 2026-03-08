@@ -1,0 +1,1 @@
+ssh -i "vidazad.pem" ubuntu@ec2-3-89-5-189.compute-1.amazonaws.com
