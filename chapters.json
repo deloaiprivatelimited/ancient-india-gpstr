@@ -1,0 +1,179 @@
+{
+    "chapters": [
+        {
+            "chapter": 1,
+            "title": "bharatiyaa itihasa pitike, bharatha varsha mattu adharagalu",
+            "sources": [
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 15,
+                    "to_page": 19,
+                    "merge_enabled": false,
+                    "merge_code": null
+                },
+                {
+                    "source_file": "8th Kan SS Part-1",
+                    "from_page": 21,
+                    "to_page": 23,
+                    "merge_enabled": false,
+                    "merge_code": null
+                },
+                {
+                    "source_file": "8th Kan SS Part-1",
+                    "from_page": 15,
+                    "to_page": 19,
+                    "merge_enabled": false,
+                    "merge_code": null
+                }
+            ]
+        },
+        {
+            "chapter": 2,
+            "title": "arambika samaja , alaya shila yuga , madya shila yuga, nava shilayuga,chalcolithic mattu kabbinada yuga",
+            "sources": [
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 20,
+                    "to_page": 25,
+                    "merge_enabled": true,
+                    "merge_code": "m1"
+                },
+                {
+                    "source_file": "8th Kan SS Part-1",
+                    "from_page": 24,
+                    "to_page": 27,
+                    "merge_enabled": true,
+                    "merge_code": "m1"
+                }
+            ]
+        },
+        {
+            "chapter": 3,
+            "title": "sindu bayalina nagarikathe",
+            "sources": [
+                {
+                    "source_file": "8th Kan SS Part-1",
+                    "from_page": 28,
+                    "to_page": 34,
+                    "merge_enabled": false,
+                    "merge_code": null
+                }
+            ]
+        },
+        {
+            "chapter": 4,
+            "title": "veda samskruthi",
+            "sources": [
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 85,
+                    "to_page": 87,
+                    "merge_enabled": true,
+                    "merge_code": "m2"
+                },
+                {
+                    "source_file": "8th Kan SS Part-1",
+                    "from_page": 34,
+                    "to_page": 34,
+                    "merge_enabled": true,
+                    "merge_code": "m2"
+                }
+            ]
+        },
+        {
+            "chapter": 5,
+            "title": "dharmika sudharana chaluvali",
+            "sources": [
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 89,
+                    "to_page": 93,
+                    "merge_enabled": true,
+                    "merge_code": "m3"
+                },
+                {
+                    "source_file": "8th Kan SS Part-1",
+                    "from_page": 53,
+                    "to_page": 58,
+                    "merge_enabled": true,
+                    "merge_code": "m3"
+                }
+            ]
+        },
+        {
+            "chapter": 6,
+            "title": "mahajanapadagalu amttu ganarajyagalu",
+            "sources": [
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 93,
+                    "to_page": 93,
+                    "merge_enabled": false,
+                    "merge_code": null
+                }
+            ]
+        },
+        {
+            "chapter": 7,
+            "title": "maouyrayaru mattu kushanaru, shatavahanaru,pallavaru ,guptaru,vardanaru mattu cholaru",
+            "sources": [
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 95,
+                    "to_page": 101,
+                    "merge_enabled": true,
+                    "merge_code": "m4"
+                },
+                {
+                    "source_file": "8th Kan SS Part-2",
+                    "from_page": 14,
+                    "to_page": 15,
+                    "merge_enabled": true,
+                    "merge_code": "m4"
+                },
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 108,
+                    "to_page": 108,
+                    "merge_enabled": true,
+                    "merge_code": "m5"
+                },
+                {
+                    "source_file": "8th Kan SS Part-2",
+                    "from_page": 24,
+                    "to_page": 26,
+                    "merge_enabled": true,
+                    "merge_code": "m5"
+                },
+                {
+                    "source_file": "8th Kan SS Part-2",
+                    "from_page": 35,
+                    "to_page": 37,
+                    "merge_enabled": true,
+                    "merge_code": "m6"
+                },
+                {
+                    "source_file": "6th Kan SS Part-1",
+                    "from_page": 119,
+                    "to_page": 124,
+                    "merge_enabled": true,
+                    "merge_code": "m6"
+                },
+                {
+                    "source_file": "8th Kan SS Part-2",
+                    "from_page": 3,
+                    "to_page": 7,
+                    "merge_enabled": false,
+                    "merge_code": null
+                },
+                {
+                    "source_file": "8th Kan SS Part-2",
+                    "from_page": 8,
+                    "to_page": 13,
+                    "merge_enabled": false,
+                    "merge_code": null
+                }
+            ]
+        }
+    ]
+}

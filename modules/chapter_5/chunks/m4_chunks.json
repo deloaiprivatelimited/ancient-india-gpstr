@@ -1,0 +1,407 @@
+{
+  "chapter_title": "ಹೊಸ ಧರ್ಮಗಳ ಉದಯ",
+  "module_id": "m4",
+  "module_title": "ಬೌದ್ಧ ಧರ್ಮದ ತತ್ವಗಳು, ಪ್ರಸಾರ ಮತ್ತು ಪಂಥಗಳು",
+  "target_exam": "GPSTR",
+  "chunks": [
+    {
+      "chunk_id": "m4_c1",
+      "order": 1,
+      "chunk_type": "intro",
+      "script": "ಗೌತಮ ಬುದ್ಧನು ಸ್ಥಾಪಿಸಿದ ಬೌದ್ಧಧರ್ಮವು ಸುಮಾರು ಎರಡು ಸಾವಿರದ ಐನೂರು ವರ್ಷಗಳ ಹಿಂದೆ ಉದಯಿಸಿತು. ಇದು ಸರಳತೆ, ಅಹಿಂಸೆ ಮತ್ತು ಮಾನವೀಯ ಮೌಲ್ಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+      "display": {
+        "title": "ಬೌದ್ಧಧರ್ಮದ ಉದಯ",
+        "markdown": "ಗೌತಮ ಬುದ್ಧನು ಸ್ಥಾಪಿಸಿದ ಬೌದ್ಧಧರ್ಮವು ಸುಮಾರು ಎರಡು ಸಾವಿರದ ಐನೂರು ವರ್ಷಗಳ ಹಿಂದೆ ಉದಯಿಸಿತು.\nಇದು ಸರಳತೆ, ಅಹಿಂಸೆ ಮತ್ತು ಮಾನವೀಯ ಮೌಲ್ಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m4_c2",
+      "order": 2,
+      "chunk_type": "concept_explanation",
+      "script": "ಗೌತಮ ಬುದ್ಧನ ಜೀವನದ ಕುರಿತು ತಿಳಿಯೋಣ.",
+      "display": {
+        "title": "ಗೌತಮ ಬುದ್ಧನ ಜೀವನ",
+        "markdown": "ಗೌತಮ ಬುದ್ಧನ ಜೀವನದ ಕುರಿತು ತಿಳಿಯೋಣ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "m4_c3",
+      "order": 3,
+      "chunk_type": "concept_explanation",
+      "script": "ಬುದ್ಧನ ಬಾಲ್ಯದ ಹೆಸರು ಸಿದ್ಧಾರ್ಥ. ಅವನು ನೇಪಾಳದ ಕಪಿಲವಸ್ತು ಸಮೀಪದ ಲುಂಬಿನಿ ವನದಲ್ಲಿ, ಶಾಕ್ಯ ಗಣರಾಜ್ಯದ ಮುಖ್ಯಸ್ಥನಾದ ಶುದ್ಧೋಧನ ಮತ್ತು ಮಾಯಾದೇವಿಯರ ಮಗನಾಗಿ ಜನಿಸಿದನು.",
+      "display": {
+        "title": "ಬುದ್ಧನ ಬಾಲ್ಯ",
+        "markdown": "ಬುದ್ಧನ ಬಾಲ್ಯದ ಹೆಸರು ಸಿದ್ಧಾರ್ಥ.\nಅವನು ನೇಪಾಳದ ಕಪಿಲವಸ್ತು ಸಮೀಪದ ಲುಂಬಿನಿ ವನದಲ್ಲಿ, ಶಾಕ್ಯ ಗಣರಾಜ್ಯದ ಮುಖ್ಯಸ್ಥನಾದ ಶುದ್ಧೋಧನ ಮತ್ತು ಮಾಯಾದೇವಿಯರ ಮಗನಾಗಿ ಜನಿಸಿದನು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "m4_c4",
+      "order": 4,
+      "chunk_type": "event_analysis",
+      "script": "ಒಮ್ಮೆ ನಗರ ಸಂಚಾರದ ವೇಳೆ ವೃದ್ಧ, ರೋಗಿ, ಶವ ಮತ್ತು ಸಂನ್ಯಾಸಿಯನ್ನು ಕಂಡ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಜೀವನದ ದುಃಖದ ಅರಿವಾಗಿ ವೈರಾಗ್ಯ ಮೂಡಿತು. ದುಃಖದ ಕಾರಣವನ್ನು ಹುಡುಕಲು ತನ್ನ ಪತ್ನಿ ಯಶೋಧರಾ ಮತ್ತು ಮಗ ರಾಹುಲನನ್ನು ತೊರೆದು ಅರಮನೆಯನ್ನು ತ್ಯಜಿಸಿದನು. ಈ ಘಟನೆಯನ್ನು ಮಹಾನಿಷ್ಕ್ರಮಣ, ಅಂದರೆ ಮಹಾತ್ಯಾಗ ಎನ್ನುತ್ತಾರೆ.",
+      "display": {
+        "title": "ಮಹಾನಿಷ್ಕ್ರಮಣ",
+        "markdown": "ವೃದ್ಧ, ರೋಗಿ, ಶವ ಮತ್ತು ಸಂನ್ಯಾಸಿಯನ್ನು ಕಂಡು ಸಿದ್ಧಾರ್ಥನಿಗೆ ದುಃಖದ ಅರಿವಾಯಿತು.\nದುಃಖದ ಕಾರಣವನ್ನು ಹುಡುಕಲು ಪತ್ನಿ ಯಶೋಧರಾ ಮತ್ತು ಮಗ ರಾಹುಲನನ್ನು ತೊರೆದು ಅರಮನೆಯನ್ನು ತ್ಯಜಿಸಿದನು.\nಈ ಘಟನೆಯನ್ನು ಮಹಾನಿಷ್ಕ್ರಮಣ, ಅಂದರೆ ಮಹಾತ್ಯಾಗ ಎನ್ನುತ್ತಾರೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಸಿದ್ಧಾರ್ಥನ ಮಹಾನಿಷ್ಕ್ರಮಣದ ಕ್ರಮ",
+        "detailed_description": "Flow diagram showing: 1. Encounter with old man, sick man, corpse, ascetic → 2. Realization of suffering → 3. Renunciation of palace, wife, and son → 4. Event called Mahanishkramana (Great Renunciation)",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.7
+      }
+    },
+    {
+      "chunk_id": "m4_c5",
+      "order": 5,
+      "chunk_type": "event_analysis",
+      "script": "ಹಲವು ವರ್ಷಗಳ ಅಲೆದಾಟದ ನಂತರ, ಬಿಹಾರದ ಗಯಾ ಎಂಬಲ್ಲಿ ಅರಳಿ ಮರದ ಕೆಳಗೆ ಧ್ಯಾನಿಸುತ್ತಾ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಜ್ಞಾನೋದಯವಾಯಿತು. ಅಂದಿನಿಂದ ಆತ ಬುದ್ಧ, ಅಂದರೆ ಜ್ಞಾನಿ ಎನಿಸಿಕೊಂಡನು ಮತ್ತು ಆ ಸ್ಥಳ ಬೋಧಗಯಾ ಎಂದು ಪ್ರಸಿದ್ಧವಾಯಿತು.",
+      "display": {
+        "title": "ಜ್ಞಾನೋದಯ ಮತ್ತು ಬೋಧಗಯಾ",
+        "markdown": "ಬಿಹಾರದ ಗಯಾ ಎಂಬಲ್ಲಿ ಅರಳಿ ಮರದ ಕೆಳಗೆ ಧ್ಯಾನಿಸುತ್ತಾ ಸಿದ್ಧಾರ್ಥನಿಗೆ ಜ್ಞಾನೋದಯವಾಯಿತು.\nಅಂದಿನಿಂದ ಆತ ಬುದ್ಧ, ಅಂದರೆ ಜ್ಞಾನಿ ಎನಿಸಿಕೊಂಡನು.\nಆ ಸ್ಥಳ ಬೋಧಗಯಾ ಎಂದು ಪ್ರಸಿದ್ಧವಾಯಿತು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಸಿದ್ಧಾರ್ಥನಿಗೆ ಬೋಧಗಯಾದಲ್ಲಿ ಜ್ಞಾನೋದಯ",
+        "detailed_description": "Flow: Years of wandering → Meditation under Bodhi tree at Gaya → Enlightenment → Becomes Buddha → Place known as Bodh Gaya",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.6
+      }
+    },
+    {
+      "chunk_id": "m4_c6",
+      "order": 6,
+      "chunk_type": "event_analysis",
+      "script": "ಜ್ಞಾನೋದಯದ ನಂತರ ಬುದ್ಧನು ಉತ್ತರ ಪ್ರದೇಶದ ವಾರಣಾಸಿ ಬಳಿಯ ಸಾರನಾಥದಲ್ಲಿ ತನ್ನ ಐವರು ಶಿಷ್ಯರಿಗೆ ಮೊದಲ ಬೋಧನೆ ನೀಡಿದನು. ಇದನ್ನು ಧರ್ಮಚಕ್ರ ಪ್ರವರ್ತನ, ಅಂದರೆ ಧರ್ಮಚಕ್ರವನ್ನು ಉರುಳಿಸುವುದು ಎನ್ನಲಾಗುತ್ತದೆ. ತನ್ನ ಎಂಬತ್ತನೇ ವಯಸ್ಸಿನಲ್ಲಿ ಕುಶಿನಗರದಲ್ಲಿ ದೇಹತ್ಯಾಗ ಮಾಡಿದನು. ಇದನ್ನು ಮಹಾಪರಿನಿರ್ವಾಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "display": {
+        "title": "ಧರ್ಮಚಕ್ರ ಪ್ರವರ್ತನ ಮತ್ತು ಮಹಾಪರಿನಿರ್ವಾಣ",
+        "markdown": "ಬುದ್ಧನು ಸಾರನಾಥದಲ್ಲಿ ಐವರು ಶಿಷ್ಯರಿಗೆ ಮೊದಲ ಬೋಧನೆ ನೀಡಿದನು.\nಇದನ್ನು ಧರ್ಮಚಕ್ರ ಪ್ರವರ್ತನ ಎನ್ನಲಾಗುತ್ತದೆ.\nತನ್ನ ಎಂಬತ್ತನೇ ವಯಸ್ಸಿನಲ್ಲಿ ಕುಶಿನಗರದಲ್ಲಿ ದೇಹತ್ಯಾಗ ಮಾಡಿದನು.\nಇದನ್ನು ಮಹಾಪರಿನಿರ್ವಾಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಬುದ್ಧನ ಧರ್ಮಚಕ್ರ ಪ್ರವರ್ತನ ಮತ್ತು ಮಹಾಪರಿನಿರ್ವಾಣ",
+        "detailed_description": "Timeline: Enlightenment → First sermon at Sarnath (Dharmachakra Pravartana) → Passing away at Kushinagar (Mahaparinirvana)",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.7
+      }
+    },
+    {
+      "chunk_id": "m4_c7",
+      "order": 7,
+      "chunk_type": "concept_explanation",
+      "script": "ಈಗ ಬುದ್ಧನ ಬೋಧನೆಗಳನ್ನು ನೋಡೋಣ.",
+      "display": {
+        "title": "ಬುದ್ಧನ ಬೋಧನೆಗಳು",
+        "markdown": "ಈಗ ಬುದ್ಧನ ಬೋಧನೆಗಳನ್ನು ನೋಡೋಣ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "m4_c8",
+      "order": 8,
+      "chunk_type": "concept_explanation",
+      "script": "ಬುದ್ಧನ ಬೋಧನೆಗಳು ಸರಳ ಮತ್ತು ಆಚರಣೆಗೆ ಯೋಗ್ಯವಾಗಿದ್ದವು. ಆತ ತನ್ನ ಬೋಧನೆಗಳನ್ನು ಧಮ್ಮ ಎಂದು ಕರೆದನು.",
+      "display": {
+        "title": "ಬುದ್ಧನ ಧಮ್ಮ",
+        "markdown": "ಬುದ್ಧನ ಬೋಧನೆಗಳು ಸರಳ ಮತ್ತು ಆಚರಣೆಗೆ ಯೋಗ್ಯವಾಗಿದ್ದವು.\nಆತ ತನ್ನ ಬೋಧನೆಗಳನ್ನು ಧಮ್ಮ ಎಂದು ಕರೆದನು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "m4_c9",
+      "order": 9,
+      "chunk_type": "structure_explanation",
+      "script": "ಮೊದಲನೆಯದಾಗಿ, ನಾಲ್ಕು ಆರ್ಯಸತ್ಯಗಳು. ಒಂದು, ಜಗತ್ತು ದುಃಖಮಯವಾಗಿದೆ. ಎರಡು, ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ ಕಾರಣ. ಮೂರು, ಆಸೆಯನ್ನು ತ್ಯಜಿಸುವುದರಿಂದ ದುಃಖವನ್ನು ನಿವಾರಿಸಬಹುದು. ನಾಲ್ಕು, ದುಃಖ ನಿವಾರಣೆಗೆ ಅಷ್ಟಾಂಗ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸಬೇಕು.",
+      "display": {
+        "title": "ನಾಲ್ಕು ಆರ್ಯಸತ್ಯಗಳು",
+        "markdown": "ಮೊದಲನೆಯದಾಗಿ, ನಾಲ್ಕು ಆರ್ಯಸತ್ಯಗಳು.\nಒಂದು, ಜಗತ್ತು ದುಃಖಮಯವಾಗಿದೆ.\nಎರಡು, ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ ಕಾರಣ.\nಮೂರು, ಆಸೆಯನ್ನು ತ್ಯಜಿಸುವುದರಿಂದ ದುಃಖವನ್ನು ನಿವಾರಿಸಬಹುದು.\nನಾಲ್ಕು, ದುಃಖ ನಿವಾರಣೆಗೆ ಅಷ್ಟಾಂಗ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸಬೇಕು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ನಾಲ್ಕು ಆರ್ಯಸತ್ಯಗಳ ಪಟ್ಟಿ",
+        "detailed_description": "Vertical list: 1. ಜಗತ್ತು ದುಃಖಮಯವಾಗಿದೆ 2. ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ ಕಾರಣ 3. ಆಸೆಯನ್ನು ತ್ಯಜಿಸುವುದರಿಂದ ದುಃಖವನ್ನು ನಿವಾರಿಸಬಹುದು 4. ದುಃಖ ನಿವಾರಣೆಗೆ ಅಷ್ಟಾಂಗ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸಬೇಕು",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.6
+      }
+    },
+    {
+      "chunk_id": "m4_c10",
+      "order": 10,
+      "chunk_type": "structure_explanation",
+      "script": "ಎರಡನೆಯದಾಗಿ, ಅಷ್ಟಾಂಗ ಮಾರ್ಗ ಅಥವಾ ಮಧ್ಯಮ ಮಾರ್ಗ. ಇದು ದುಃಖ ನಿವಾರಣೆಗಾಗಿ ಎಂಟು ದಾರಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಅವುಗಳೆಂದರೆ, ಒಳ್ಳೆಯ ನೋಟ, ಸಂಕಲ್ಪ, ಮಾತು, ನಡತೆ, ಜೀವನ, ಪ್ರಯತ್ನ, ನೆನಪು ಮತ್ತು ಚಿಂತನೆ. ಇದು ಅತಿಭೋಗ ಮತ್ತು ಕಠಿಣ ತಪಸ್ಸು ಎರಡನ್ನೂ ನಿರಾಕರಿಸುವ ಮಧ್ಯಮ ಮಾರ್ಗವಾಗಿದೆ.",
+      "display": {
+        "title": "ಅಷ್ಟಾಂಗ ಮಾರ್ಗ",
+        "markdown": "ಎರಡನೆಯದಾಗಿ, ಅಷ್ಟಾಂಗ ಮಾರ್ಗ ಅಥವಾ ಮಧ್ಯಮ ಮಾರ್ಗ.\nಇದು ದುಃಖ ನಿವಾರಣೆಗಾಗಿ ಎಂಟು ದಾರಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.\nಅವುಗಳೆಂದರೆ, ಒಳ್ಳೆಯ ನೋಟ, ಸಂಕಲ್ಪ, ಮಾತು, ನಡತೆ, ಜೀವನ, ಪ್ರಯತ್ನ, ನೆನಪು ಮತ್ತು ಚಿಂತನೆ.\nಇದು ಅತಿಭೋಗ ಮತ್ತು ಕಠಿಣ ತಪಸ್ಸು ಎರಡನ್ನೂ ನಿರಾಕರಿಸುವ ಮಧ್ಯಮ ಮಾರ್ಗವಾಗಿದೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಅಷ್ಟಾಂಗ ಮಾರ್ಗದ ಎಂಟು ಹಂತಗಳು",
+        "detailed_description": "Eight-point list: 1. ಒಳ್ಳೆಯ ನೋಟ 2. ಸಂಕಲ್ಪ 3. ಮಾತು 4. ನಡತೆ 5. ಜೀವನ 6. ಪ್ರಯತ್ನ 7. ನೆನಪು 8. ಚಿಂತನೆ. Note: Middle path rejecting both indulgence and severe penance.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.6
+      }
+    },
+    {
+      "chunk_id": "m4_c11",
+      "order": 11,
+      "chunk_type": "concept_explanation",
+      "script": "ಇನ್ನು ಇತರೆ ಬೋಧನೆಗಳೆಂದರೆ, ಅಹಿಂಸೆ, ಕರುಣೆ, ಶುದ್ಧ ಜೀವನ, ಮತ್ತು ಎಲ್ಲಾ ಜೀವಿಗಳ ಬಗ್ಗೆ ಪ್ರೀತಿ ಬುದ್ಧನ ಬೋಧನೆಗಳ ಸಾರವಾಗಿತ್ತು. ತನ್ನ ಉಪದೇಶಗಳನ್ನು ಜನಸಾಮಾನ್ಯರ ಭಾಷೆಯಾದ ಪಾಲಿಯಲ್ಲಿ ನೀಡಿದ್ದರಿಂದ ಇದು ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಯಿತು.",
+      "display": {
+        "title": "ಬುದ್ಧನ ಇತರೆ ಬೋಧನೆಗಳು",
+        "markdown": "ಅಹಿಂಸೆ, ಕರುಣೆ, ಶುದ್ಧ ಜೀವನ, ಮತ್ತು ಎಲ್ಲಾ ಜೀವಿಗಳ ಬಗ್ಗೆ ಪ್ರೀತಿ ಬುದ್ಧನ ಬೋಧನೆಗಳ ಸಾರವಾಗಿತ್ತು.\nತನ್ನ ಉಪದೇಶಗಳನ್ನು ಜನಸಾಮಾನ್ಯರ ಭಾಷೆಯಾದ ಪಾಲಿಯಲ್ಲಿ ನೀಡಿದ್ದರಿಂದ ಇದು ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಯಿತು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.4
+      }
+    },
+    {
+      "chunk_id": "m4_c12",
+      "order": 12,
+      "chunk_type": "cause_effect",
+      "script": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು ತಮ್ಮ ಸರಳ ತತ್ವಗಳಿಂದಾಗಿ ಶೀಘ್ರವಾಗಿ ಪ್ರಚಾರಗೊಂಡವು. ಈ ಪ್ರಸಾರದಲ್ಲಿ ಅಂದಿನ ರಾಜಕೀಯ ಮತ್ತು ಸಾಮಾಜಿಕ ರಚನೆಗಳು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದವು.",
+      "display": {
+        "title": "ಧರ್ಮಗಳ ಪ್ರಸಾರದ ಕಾರಣ",
+        "markdown": "ಜೈನ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮಗಳು ತಮ್ಮ ಸರಳ ತತ್ವಗಳಿಂದಾಗಿ ಶೀಘ್ರವಾಗಿ ಪ್ರಚಾರಗೊಂಡವು.\nಈ ಪ್ರಸಾರದಲ್ಲಿ ಅಂದಿನ ರಾಜಕೀಯ ಮತ್ತು ಸಾಮಾಜಿಕ ರಚನೆಗಳು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದವು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಧರ್ಮಗಳ ಪ್ರಸಾರದ ಕಾರಣಗಳು",
+        "detailed_description": "Cause-effect diagram: Simple doctrines → Rapid spread of Jain and Buddhist religions; Political and social structures → Major role in propagation",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m4_c13",
+      "order": 13,
+      "chunk_type": "structure_explanation",
+      "script": "ಬುದ್ಧನ ಶಿಷ್ಯರು ಅವನ ಉಪದೇಶಗಳನ್ನು ತ್ರಿಪಿಟಕಗಳು ಎಂಬ ಮೂರು ಗ್ರಂಥಗಳಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದರು. ಅವುಗಳೆಂದರೆ, ವಿನಯ ಪಿಟಕ, ಸುತ್ತ ಪಿಟಕ ಮತ್ತು ಅಭಿದಮ್ಮ ಪಿಟಕ. ಇವು ಪಾಲಿ ಭಾಷೆಯಲ್ಲಿವೆ. ಬೌದ್ಧ ಧರ್ಮವು ಭಾರತದ ಗಡಿಗಳನ್ನು ದಾಟಿ ಚೀನಾ, ಜಪಾನ್, ಶ್ರೀಲಂಕಾ ಮತ್ತು ಆಗ್ನೇಯ ಏಷ್ಯಾ ರಾಷ್ಟ್ರಗಳಿಗೆ ಹರಡಿತು. ಸ್ತೂಪಗಳು, ವಿಹಾರಗಳು ಮತ್ತು ಚೈತ್ಯಾಲಯಗಳು ಬೌದ್ಧ ವಾಸ್ತುಶಿಲ್ಪದ ಪ್ರಮುಖ ಕೊಡುಗೆಗಳಾಗಿವೆ.",
+      "display": {
+        "title": "ತ್ರಿಪಿಟಕಗಳು ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮದ ಪ್ರಸಾರ",
+        "markdown": "ಬುದ್ಧನ ಶಿಷ್ಯರು ಅವನ ಉಪದೇಶಗಳನ್ನು ತ್ರಿಪಿಟಕಗಳು ಎಂಬ ಮೂರು ಗ್ರಂಥಗಳಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದರು.\nಅವುಗಳೆಂದರೆ, ವಿನಯ ಪಿಟಕ, ಸುತ್ತ ಪಿಟಕ ಮತ್ತು ಅಭಿದಮ್ಮ ಪಿಟಕ.\nಇವು ಪಾಲಿ ಭಾಷೆಯಲ್ಲಿವೆ.\nಬೌದ್ಧ ಧರ್ಮವು ಭಾರತದ ಗಡಿಗಳನ್ನು ದಾಟಿ ಚೀನಾ, ಜಪಾನ್, ಶ್ರೀಲಂಕಾ ಮತ್ತು ಆಗ್ನೇಯ ಏಷ್ಯಾ ರಾಷ್ಟ್ರಗಳಿಗೆ ಹರಡಿತು.\nಸ್ತೂಪಗಳು, ವಿಹಾರಗಳು ಮತ್ತು ಚೈತ್ಯಾಲಯಗಳು ಬೌದ್ಧ ವಾಸ್ತುಶಿಲ್ಪದ ಪ್ರಮುಖ ಕೊಡುಗೆಗಳಾಗಿವೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ತ್ರಿಪಿಟಕಗಳ ಪಟ್ಟಿ ಮತ್ತು ಬೌದ್ಧ ಧರ್ಮದ ಪ್ರಸಾರದ ನಕ್ಷೆ",
+        "detailed_description": "Hierarchy: Tripitaka (Vinaya Pitaka, Sutta Pitaka, Abhidhamma Pitaka) → Written in Pali. Map arrows: Spread from India to China, Japan, Sri Lanka, Southeast Asia. List: Stupas, Viharas, Chaityalayas as architectural contributions.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.7
+      }
+    },
+    {
+      "chunk_id": "m4_c14",
+      "order": 14,
+      "chunk_type": "structure_explanation",
+      "script": "ಕಾಲಾನಂತರ ಬೌದ್ಧ ಧರ್ಮದಲ್ಲಿ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳಿಂದಾಗಿ ಪಂಥಗಳು ಹುಟ್ಟಿಕೊಂಡವು. ಮೊದಲನೆಯದು, ಹೀನಯಾನ. ಇವರು ಬುದ್ಧನ ಮೂಲ ಬೋಧನೆಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲಿಸುವವರು ಮತ್ತು ಮೂರ್ತಿಪೂಜೆಯನ್ನು ವಿರೋಧಿಸುತ್ತಾರೆ. ಎರಡನೆಯದು, ಮಹಾಯಾನ. ಇವರು ಬುದ್ಧನನ್ನು ದೇವರ ಅವತಾರವೆಂದು ಭಾವಿಸಿ ಮೂರ್ತಿ ಪೂಜೆ ಮಾಡುವವರು. ಬೋಧಿಸತ್ತ್ವ ಪರಿಕಲ್ಪನೆ ಇವರಲ್ಲಿ ಪ್ರಮುಖವಾಗಿದೆ. ಮೂರನೆಯದು, ವಜ್ರಯಾನ. ಇದು ತಂತ್ರ-ಮಂತ್ರಗಳನ್ನು ಅಳವಡಿಸಿಕೊಂಡ ಪಂಥವಾಗಿದೆ.",
+      "display": {
+        "title": "ಬೌದ್ಧ ಪಂಥಗಳು",
+        "markdown": "ಕಾಲಾನಂತರ ಬೌದ್ಧ ಧರ್ಮದಲ್ಲಿ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳಿಂದಾಗಿ ಪಂಥಗಳು ಹುಟ್ಟಿಕೊಂಡವು.\nಮೊದಲನೆಯದು, ಹೀನಯಾನ. ಇವರು ಬುದ್ಧನ ಮೂಲ ಬೋಧನೆಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲಿಸುವವರು ಮತ್ತು ಮೂರ್ತಿಪೂಜೆಯನ್ನು ವಿರೋಧಿಸುತ್ತಾರೆ.\nಎರಡನೆಯದು, ಮಹಾಯಾನ. ಇವರು ಬುದ್ಧನನ್ನು ದೇವರ ಅವತಾರವೆಂದು ಭಾವಿಸಿ ಮೂರ್ತಿ ಪೂಜೆ ಮಾಡುವವರು. ಬೋಧಿಸತ್ತ್ವ ಪರಿಕಲ್ಪನೆ ಇವರಲ್ಲಿ ಪ್ರಮುಖವಾಗಿದೆ.\nಮೂರನೆಯದು, ವಜ್ರಯಾನ. ಇದು ತಂತ್ರ-ಮಂತ್ರಗಳನ್ನು ಅಳವಡಿಸಿಕೊಂಡ ಪಂಥವಾಗಿದೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಬೌದ್ಧ ಪಂಥಗಳ ವರ್ಗೀಕರಣ",
+        "detailed_description": "Classification tree: Buddhism → Hinayana (strict adherence, anti-idol worship), Mahayana (Buddha as deity, idol worship, Bodhisattva concept), Vajrayana (incorporates tantra-mantra)",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.7
+      }
+    },
+    {
+      "chunk_id": "m4_c15",
+      "order": 15,
+      "chunk_type": "concept_explanation",
+      "script": "ಈ ಧರ್ಮಗಳ ರಾಜಕೀಯ ಹಿನ್ನೆಲೆಯನ್ನು ಗಮನಿಸೋಣ.",
+      "display": {
+        "title": "ರಾಜಕೀಯ ಹಿನ್ನೆಲೆ",
+        "markdown": "ಈ ಧರ್ಮಗಳ ರಾಜಕೀಯ ಹಿನ್ನೆಲೆಯನ್ನು ಗಮನಿಸೋಣ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "m4_c16",
+      "order": 16,
+      "chunk_type": "concept_explanation",
+      "script": "ಬುದ್ಧ ಮತ್ತು ಮಹಾವೀರರ ಕಾಲದಲ್ಲಿ, ಅಂದರೆ ಕ್ರಿಸ್ತ ಪೂರ್ವ ಆರನೇ ಶತಮಾನದಲ್ಲಿ, ಸಿಂಧೂ-ಗಂಗಾ ನದಿ ಬಯಲಿನಲ್ಲಿ ಹದಿನಾರು ಪ್ರಬಲ ರಾಜ್ಯಗಳಿದ್ದವು. ಇವುಗಳನ್ನು ಮಹಾಜನಪದಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು.",
+      "display": {
+        "title": "ಮಹಾಜನಪದಗಳು",
+        "markdown": "ಬುದ್ಧ ಮತ್ತು ಮಹಾವೀರರ ಕಾಲದಲ್ಲಿ, ಅಂದರೆ ಕ್ರಿಸ್ತ ಪೂರ್ವ ಆರನೇ ಶತಮಾನದಲ್ಲಿ, ಸಿಂಧೂ-ಗಂಗಾ ನದಿ ಬಯಲಿನಲ್ಲಿ ಹದಿನಾರು ಪ್ರಬಲ ರಾಜ್ಯಗಳಿದ್ದವು.\nಇವುಗಳನ್ನು ಮಹಾಜನಪದಗಳು ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.4
+      }
+    },
+    {
+      "chunk_id": "m4_c17",
+      "order": 17,
+      "chunk_type": "structure_explanation",
+      "script": "ಈ ಮಹಾಜನಪದಗಳು ರಾಜಪ್ರಭುತ್ವದ ಆಡಳಿತ ಹೊಂದಿದ್ದವು. ಮಗಧ, ಕೋಸಲ, ವತ್ಸ ಮತ್ತು ಅವಂತಿ ಇವುಗಳಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಬಲವಾಗಿದ್ದವು.",
+      "display": {
+        "title": "ಮಹಾಜನಪದಗಳ ಆಡಳಿತ",
+        "markdown": "ಈ ಮಹಾಜನಪದಗಳು ರಾಜಪ್ರಭುತ್ವದ ಆಡಳಿತ ಹೊಂದಿದ್ದವು.\nಮಗಧ, ಕೋಸಲ, ವತ್ಸ ಮತ್ತು ಅವಂತಿ ಇವುಗಳಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಬಲವಾಗಿದ್ದವು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಮಹಾಜನಪದಗಳ ಪಟ್ಟಿ ಮತ್ತು ಪ್ರಬಲ ರಾಜ್ಯಗಳು",
+        "detailed_description": "List: Mahajanapadas → Monarchical administration. Highlight: Magadha, Kosala, Vatsa, Avanti as most powerful.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m4_c18",
+      "order": 18,
+      "chunk_type": "structure_explanation",
+      "script": "ಇದಲ್ಲದೆ ಗಣರಾಜ್ಯಗಳು ಅಥವಾ ಗಣತಂತ್ರಗಳು ಕೂಡ ಇದ್ದವು. ಇವುಗಳಲ್ಲಿ ರಾಜನ ಬದಲು ಜನರ ಪ್ರತಿನಿಧಿಗಳು ಅಥವಾ ಕುಲೀನರ ಸಭೆಯು ಆಡಳಿತ ನಡೆಸುತ್ತಿತ್ತು. ವಜ್ಜಿ ಒಕ್ಕೂಟವು ಪ್ರಮುಖ ಗಣರಾಜ್ಯವಾಗಿತ್ತು, ಅದರ ರಾಜಧಾನಿ ವೈಶಾಲಿ. ಬುದ್ಧನು ಶಾಕ್ಯ ಗಣರಾಜ್ಯಕ್ಕೆ ಮತ್ತು ಮಹಾವೀರನು ಜ್ಞಾತ್ರಿಕ ಗಣರಾಜ್ಯಕ್ಕೆ ಸೇರಿದವರಾಗಿದ್ದರು. ಇದು ಅವರ ಬೋಧನೆಗಳಲ್ಲಿದ್ದ ಸಮಾನತಾವಾದಿ ಮತ್ತು ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಅಂಶಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿರಬಹುದು.",
+      "display": {
+        "title": "ಗಣರಾಜ್ಯಗಳು ಮತ್ತು ಪ್ರಭಾವ",
+        "markdown": "ಇದಲ್ಲದೆ ಗಣರಾಜ್ಯಗಳು ಅಥವಾ ಗಣತಂತ್ರಗಳು ಕೂಡ ಇದ್ದವು.\nಇವುಗಳಲ್ಲಿ ರಾಜನ ಬದಲು ಜನರ ಪ್ರತಿನಿಧಿಗಳು ಅಥವಾ ಕುಲೀನರ ಸಭೆಯು ಆಡಳಿತ ನಡೆಸುತ್ತಿತ್ತು.\nವಜ್ಜಿ ಒಕ್ಕೂಟವು ಪ್ರಮುಖ ಗಣರಾಜ್ಯವಾಗಿತ್ತು, ಅದರ ರಾಜಧಾನಿ ವೈಶಾಲಿ.\nಬುದ್ಧನು ಶಾಕ್ಯ ಗಣರಾಜ್ಯಕ್ಕೆ ಮತ್ತು ಮಹಾವೀರನು ಜ್ಞಾತ್ರಿಕ ಗಣರಾಜ್ಯಕ್ಕೆ ಸೇರಿದವರಾಗಿದ್ದರು.\nಇದು ಅವರ ಬೋಧನೆಗಳಲ್ಲಿದ್ದ ಸಮಾನತಾವಾದಿ ಮತ್ತು ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಅಂಶಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿರಬಹುದು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಗಣರಾಜ್ಯಗಳ ರಚನೆ ಮತ್ತು ಬುದ್ಧ–ಮಹಾವೀರರ ಸಂಬಂಧ",
+        "detailed_description": "Hierarchy: Republics (Ganatantras) → Administration by representatives/council. Vajji confederacy (capital: Vaishali) as key example. Buddha: Shakya republic; Mahavira: Jnatrika republic. Influence on egalitarian and democratic elements in teachings.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.7
+      }
+    },
+    {
+      "chunk_id": "m4_c19",
+      "order": 19,
+      "chunk_type": "cause_effect",
+      "script": "ಮಹಾಜನಪದಗಳ ನಡುವಿನ ರಾಜಕೀಯ ಸ್ಪರ್ಧೆ ಮತ್ತು ಗಣರಾಜ್ಯಗಳ ಉದಾರವಾದಿ ವಾತಾವರಣವು ಹೊಸ ಧಾರ್ಮಿಕ ಚಳುವಳಿಗಳ ಬೆಳವಣಿಗೆಗೆ ಪೂರಕವಾದ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸಿತು. ಈ ಧರ್ಮಗಳು ರಾಜಾಶ್ರಯ ಪಡೆದು ಮತ್ತಷ್ಟು ಪ್ರವರ್ಧಮಾನಕ್ಕೆ ಬಂದವು. ಅಲೆಕ್ಸಾಂಡರನಂತಹ ವಿದೇಶಿ ದಾಳಿಗಳು ಈ ಕಾಲದ ವಾಯುವ್ಯ ಭಾರತದ ರಾಜಕೀಯ ಅಸ್ಥಿರತೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಇದು ಮುಂದೆ ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದಂತಹ ಬೃಹತ್ ಸಾಮ್ರಾಜ್ಯದ ಉದಯಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಟ್ಟಿತು.",
+      "display": {
+        "title": "ರಾಜಕೀಯ ಸ್ಪರ್ಧೆ ಮತ್ತು ಧಾರ್ಮಿಕ ಚಳುವಳಿಗಳು",
+        "markdown": "ಮಹಾಜನಪದಗಳ ನಡುವಿನ ರಾಜಕೀಯ ಸ್ಪರ್ಧೆ ಮತ್ತು ಗಣರಾಜ್ಯಗಳ ಉದಾರವಾದಿ ವಾತಾವರಣವು ಹೊಸ ಧಾರ್ಮಿಕ ಚಳುವಳಿಗಳ ಬೆಳವಣಿಗೆಗೆ ಪೂರಕವಾದ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸಿತು.\nಈ ಧರ್ಮಗಳು ರಾಜಾಶ್ರಯ ಪಡೆದು ಮತ್ತಷ್ಟು ಪ್ರವರ್ಧಮಾನಕ್ಕೆ ಬಂದವು.\nಅಲೆಕ್ಸಾಂಡರನಂತಹ ವಿದೇಶಿ ದಾಳಿಗಳು ಈ ಕಾಲದ ವಾಯುವ್ಯ ಭಾರತದ ರಾಜಕೀಯ ಅಸ್ಥಿರತೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಇದು ಮುಂದೆ ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದಂತಹ ಬೃಹತ್ ಸಾಮ್ರಾಜ್ಯದ ಉದಯಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಟ್ಟಿತು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ರಾಜಕೀಯ ಸ್ಪರ್ಧೆ, ಧಾರ್ಮಿಕ ಚಳುವಳಿ ಮತ್ತು ಸಾಮ್ರಾಜ್ಯದ ಉದಯ",
+        "detailed_description": "Flow: Political competition among Mahajanapadas + Liberal atmosphere in republics → Favourable for new religious movements → Royal patronage → Expansion. Foreign invasions (e.g., Alexander) → Political instability → Rise of Mauryan Empire.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.7
+      }
+    }
+  ]
+}

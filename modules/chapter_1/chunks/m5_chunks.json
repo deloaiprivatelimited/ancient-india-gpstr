@@ -1,0 +1,176 @@
+{
+  "chapter_title": "ಇತಿಹಾಸ ಪರಿಚಯ: ಆಧಾರಗಳು ಮತ್ತು ಭೌಗೋಳಿಕ ಹಿನ್ನೆಲೆ",
+  "module_id": "m5",
+  "module_title": "ಐತಿಹಾಸಿಕ ಕಾಲಗಣನೆ ಮತ್ತು ವೈಜ್ಞಾನಿಕ ಕಾಲನಿರ್ಣಯ",
+  "target_exam": "GPSTR",
+  "chunks": [
+    {
+      "chunk_id": "m5_c1",
+      "order": 1,
+      "chunk_type": "concept_explanation",
+      "script": "ಇತಿಹಾಸದ ಘಟನೆಗಳನ್ನು ಒಂದು ಕ್ರಮಬದ್ಧವಾದ ರೀತಿಯಲ್ಲಿ ಜೋಡಿಸಲು ಕಾಲಗಣನೆ ಬಹಳ ಮುಖ್ಯ. ಇದಕ್ಕಾಗಿ, ಒಂದು ನಿರ್ದಿಷ್ಟ ದಿನವನ್ನು ಆಧಾರವಾಗಿ ಇಟ್ಟುಕೊಂಡು ವರ್ಷಗಳನ್ನು ಎಣಿಸಲಾಗುತ್ತದೆ. ಈ ವ್ಯವಸ್ಥೆಯನ್ನೇ ನಾವು 'ಶಕ' ಅಥವಾ 'Era' ಎಂದು ಕರೆಯುತ್ತೇವೆ.",
+      "display": {
+        "title": "ಕಾಲಗಣನೆಯ ಮಹತ್ವ",
+        "markdown": "ಇತಿಹಾಸದ ಘಟನೆಗಳನ್ನು ಕ್ರಮಬದ್ಧವಾಗಿ ಜೋಡಿಸಲು ಕಾಲಗಣನೆ ಮುಖ್ಯವಾಗಿದೆ.\nಒಂದು ನಿರ್ದಿಷ್ಟ ದಿನವನ್ನು ಆಧಾರವಾಗಿ ಇಟ್ಟುಕೊಂಡು ವರ್ಷಗಳನ್ನು ಎಣಿಸಲಾಗುತ್ತದೆ.\nಈ ವ್ಯವಸ್ಥೆಯನ್ನು 'ಶಕ' ಅಥವಾ 'Era' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c2",
+      "order": 2,
+      "chunk_type": "concept_explanation",
+      "script": "ಪ್ರಸ್ತುತ, ಜಗತ್ತಿನಾದ್ಯಂತ ವ್ಯಾಪಕವಾಗಿ ಬಳಕೆಯಲ್ಲಿರುವ ಕಾಲಗಣನಾ ಪದ್ಧತಿಯೇ ಸಾಮಾನ್ಯ ಶಕ, ಅಂದರೆ ಕಾಮನ್ ಎರಾ. ಇದು ಯೇಸುಕ್ರಿಸ್ತನ ಜನ್ಮವರ್ಷವನ್ನು ಆಧರಿಸಿದೆ ಎಂದು ನಂಬಲಾಗಿದೆ. ಇದರಲ್ಲಿ, ಯೇಸುವಿನ ಜನನದ ನಂತರದ ವರ್ಷಗಳನ್ನು 'ಸಾಮಾನ್ಯ ಶಕ' ಎಂದು ಗುರುತಿಸಲಾಗುತ್ತದೆ. ಹಾಗೆಯೇ, ಯೇಸುವಿನ ಜನನಕ್ಕಿಂತ ಹಿಂದಿನ ವರ್ಷಗಳನ್ನು 'ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "display": {
+        "title": "ಸಾಮಾನ್ಯ ಶಕ (ಕಾಮನ್ ಎರಾ)",
+        "markdown": "ಜಗತ್ತಿನಾದ್ಯಂತ ಸಾಮಾನ್ಯ ಶಕ ಪದ್ಧತಿ ವ್ಯಾಪಕವಾಗಿದೆ.\nಇದು ಯೇಸುಕ್ರಿಸ್ತನ ಜನ್ಮವರ್ಷವನ್ನು ಆಧರಿಸಿದೆ.\nಯೇಸುವಿನ ಜನನದ ನಂತರ 'ಸಾಮಾನ್ಯ ಶಕ', ಹಿಂದಿನ ವರ್ಷಗಳು 'ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ'.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಸಾಮಾನ್ಯ ಶಕ ಮತ್ತು ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವದ ಕಾಲಗಣನೆ ಹೋಲಿಕೆ",
+        "detailed_description": "A timeline showing BCE (Before Common Era) on the left, the birth of Jesus at the center, and CE (Common Era) on the right. Arrows indicate the flow from BCE to CE.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c3",
+      "order": 3,
+      "chunk_type": "concept_explanation",
+      "script": "ಇತಿಹಾಸದಲ್ಲಿ, ಸಾಮಾನ್ಯ ಶಕದ ಜೊತೆಗೆ ಶಾಲಿವಾಹನ ಶಕ, ವಿಕ್ರಮ ಸಂವತ್, ಗುಪ್ತ ಶಕ, ಮತ್ತು ಹಿಜಿರಾ ಶಕಗಳಂತಹ ಅನೇಕ ಇತರ ಕಾಲಗಣನಾ ಪದ್ಧತಿಗಳು ಕೂಡ ಬಳಕೆಯಲ್ಲಿದ್ದವು.",
+      "display": {
+        "title": "ಇತರ ಕಾಲಗಣನಾ ಪದ್ಧತಿಗಳು",
+        "markdown": "ಸಾಮಾನ್ಯ ಶಕದ ಜೊತೆಗೆ ಶಾಲಿವಾಹನ ಶಕ, ವಿಕ್ರಮ ಸಂವತ್, ಗುಪ್ತ ಶಕ, ಹಿಜಿರಾ ಶಕಗಳು ಬಳಕೆಯಲ್ಲಿದ್ದವು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ವಿವಿಧ ಕಾಲಗಣನಾ ಪದ್ಧತಿಗಳ ಪಟ್ಟಿ",
+        "detailed_description": "A simple list or table showing different eras: ಸಾಮಾನ್ಯ ಶಕ, ಶಾಲಿವಾಹನ ಶಕ, ವಿಕ್ರಮ ಸಂವತ್, ಗುಪ್ತ ಶಕ, ಹಿಜಿರಾ ಶಕ.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c4",
+      "order": 4,
+      "chunk_type": "concept_explanation",
+      "script": "ಕಾಲಗಣನೆಯಲ್ಲಿ 'ಶತಮಾನ' ಎಂಬ ಪದವನ್ನು ಸಹ ಬಳಸುತ್ತೇವೆ. ನೂರು ವರ್ಷಗಳ ಅವಧಿಯನ್ನು ಒಂದು ಶತಮಾನ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆಗೆ, ಸಾಮಾನ್ಯ ಶಕ ಎರಡು ಸಾವಿರದ ಒಂದರಿಂದ ಎರಡು ಸಾವಿರದ ನೂರರ ವರೆಗಿನ ಅವಧಿಯನ್ನು ಇಪ್ಪತ್ತೊಂದನೇ ಶತಮಾನ ಎಂದು ಪರಿಗಣಿಸುತ್ತೇವೆ.",
+      "display": {
+        "title": "ಶತಮಾನ ಎಂದರೇನು?",
+        "markdown": "'ಶತಮಾನ' ಎಂದರೆ ನೂರು ವರ್ಷಗಳ ಅವಧಿ.\nಉದಾಹರಣೆಗೆ, 2001 ರಿಂದ 2100 ವರೆಗಿನ ಅವಧಿ ಇಪ್ಪತ್ತೊಂದನೇ ಶತಮಾನ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಶತಮಾನ ವಿವರಣೆ",
+        "detailed_description": "A timeline marking 2001 to 2100 as the 21st century, with brackets indicating the 100-year span.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c5",
+      "order": 5,
+      "chunk_type": "concept_explanation",
+      "script": "ಇತಿಹಾಸದ ಕಾಲವನ್ನು ನಿರ್ಧರಿಸಲು ಕೇವಲ ಶಕೆಗಳು ಮಾತ್ರವಲ್ಲ, ವೈಜ್ಞಾನಿಕ ವಿಧಾನಗಳೂ ಇವೆ. ಇದರಲ್ಲಿ ಪ್ರಮುಖವಾದುದು ವೈಜ್ಞಾನಿಕ ಕಾಲನಿರ್ಣಯ ಅಥವಾ ಸಿ-ಹದಿನಾಲ್ಕು ವಿಧಾನ. ಪುರಾತತ್ವ ಶಾಸ್ತ್ರದಲ್ಲಿ, ಪಳೆಯುಳಿಕೆಗಳಾದ ಮರ, ಮೂಳೆ, ಮತ್ತು ಇತರ ಜೈವಿಕ ಅವಶೇಷಗಳ ಕಾಲವನ್ನು ನಿರ್ಧರಿಸಲು ಈ ವಿಧಾನವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "display": {
+        "title": "ವೈಜ್ಞಾನಿಕ ಕಾಲನಿರ್ಣಯ",
+        "markdown": "ಇತಿಹಾಸದ ಕಾಲ ನಿರ್ಧಾರಕ್ಕೆ ವೈಜ್ಞಾನಿಕ ವಿಧಾನಗಳು ಕೂಡ ಇವೆ.\nಪ್ರಮುಖವಾದುದು ಸಿ-ಹದಿನಾಲ್ಕು ವಿಧಾನ.\nಪಳೆಯುಳಿಕೆಗಳ ಕಾಲ ನಿರ್ಧಾರಕ್ಕೆ ಬಳಸಲಾಗುತ್ತದೆ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ವೈಜ್ಞಾನಿಕ ಕಾಲನಿರ್ಣಯ ವಿಧಾನ",
+        "detailed_description": "A flowchart showing the use of scientific dating (C-14 method) for determining the age of archaeological remains like wood, bones, and other organic materials.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c6",
+      "order": 6,
+      "chunk_type": "structure_explanation",
+      "script": "ಇದರ ಕಾರ್ಯವಿಧಾನವನ್ನು ನೋಡೋಣ. ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಇಂಗಾಲ-ಹನ್ನೆರಡು ಮತ್ತು ಇಂಗಾಲ-ಹದಿನಾಲ್ಕು ಎಂಬ ಎರಡು ಐಸೋಟೋಪ್‌ಗಳು ಒಂದು ನಿರ್ದಿಷ್ಟ ಅನುಪಾತದಲ್ಲಿ ಇರುತ್ತವೆ. ಒಂದು ಜೀವಿಯು ಸತ್ತ ನಂತರ, ಇಂಗಾಲ-ಹನ್ನೆರಡು ಸ್ಥಿರವಾಗಿ ಉಳಿಯುತ್ತದೆ. ಆದರೆ, ವಿಕಿರಣಶೀಲ ಗುಣ ಹೊಂದಿರುವ ಇಂಗಾಲ-ಹದಿನಾಲ್ಕು ಕ್ಷಯಿಸಲು ಆರಂಭಿಸುತ್ತದೆ. ಇದರ ಅರ್ಧಾಯುಷ್ಯ ಸುಮಾರು ಐದು ಸಾವಿರದ ಏಳುನೂರು ವರ್ಷಗಳು. ಪಳೆಯುಳಿಕೆಯಲ್ಲಿ ಉಳಿದಿರುವ ಇಂಗಾಲ-ಹನ್ನೆರಡು ಮತ್ತು ಇಂಗಾಲ-ಹದಿನಾಲ್ಕರ ಅನುಪಾತವನ್ನು ಅಳೆಯುವ ಮೂಲಕ, ಆ ಜೀವಿಯು ಎಷ್ಟು ವರ್ಷಗಳ ಹಿಂದೆ ಸತ್ತಿದೆ ಎಂದು ಲೆಕ್ಕ ಹಾಕಬಹುದು. ಈ ವಿಧಾನವು ಸುಮಾರು ಹತ್ತು ಸಾವಿರ ವರ್ಷಗಳ ಹಿಂದಿನವರೆಗಿನ ಅವಶೇಷಗಳ ಕಾಲವನ್ನು ನಿರ್ಧರಿಸಲು ಹೆಚ್ಚು ನಿಖರವಾಗಿದೆ.",
+      "display": {
+        "title": "ಸಿ-ಹದಿನಾಲ್ಕು ವಿಧಾನ ಕಾರ್ಯವಿಧಾನ",
+        "markdown": "ಎಲ್ಲಾ ಜೀವಿಗಳಲ್ಲಿ ಇಂಗಾಲ-ಹನ್ನೆರಡು ಮತ್ತು ಇಂಗಾಲ-ಹದಿನಾಲ್ಕು ನಿರ್ದಿಷ್ಟ ಅನುಪಾತದಲ್ಲಿ ಇರುತ್ತವೆ.\nಜೀವಿಯು ಸತ್ತ ನಂತರ ಇಂಗಾಲ-ಹದಿನಾಲ್ಕು ಕ್ಷಯವಾಗುತ್ತದೆ.\nಅರ್ಧಾಯುಷ್ಯ ಸುಮಾರು 5,700 ವರ್ಷಗಳು.\nಅನುಪಾತ ಅಳೆಯುವ ಮೂಲಕ ಜೀವಿಯು ಎಷ್ಟು ವರ್ಷಗಳ ಹಿಂದೆ ಸತ್ತಿದೆ ಎಂದು ಲೆಕ್ಕ ಹಾಕಬಹುದು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಸಿ-ಹದಿನಾಲ್ಕು ವಿಧಾನ ಕಾರ್ಯವಿಧಾನ",
+        "detailed_description": "A stepwise flowchart: 1. Living organism contains C-12 and C-14 in a fixed ratio. 2. After death, C-14 decays while C-12 remains constant. 3. Measure the ratio in remains. 4. Calculate time since death using half-life (5,700 years).",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c7",
+      "order": 7,
+      "chunk_type": "concept_explanation",
+      "script": "ಹಾಗಾದರೆ, ಕಾಲಗಣನೆಯ ಮಹತ್ವವೇನು? ಕಾಲಗಣನೆಯು ಕೇವಲ ಘಟನೆಗಳ ಅನುಕ್ರಮವನ್ನು ತಿಳಿಸುವುದು ಮಾತ್ರವಲ್ಲ, ಮಾನವನ ಪ್ರಗತಿಯ ವಿವಿಧ ಹಂತಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಕೂಡ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಆದ್ದರಿಂದ, ಇಸವಿಗಳನ್ನು ಕೇವಲ ಕಂಠಪಾಠ ಮಾಡುವುದಕ್ಕಿಂತ, ಅವು ಘಟನೆಗಳ ಕಾಲಾನುಕ್ರಮವನ್ನು ಹೇಗೆ ಸೂಚಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಹೆಚ್ಚು ಮುಖ್ಯ.",
+      "display": {
+        "title": "ಕಾಲಗಣನೆಯ ಮಹತ್ವ",
+        "markdown": "ಕಾಲಗಣನೆಯು ಘಟನೆಗಳ ಅನುಕ್ರಮವನ್ನು ತಿಳಿಸುವುದು ಮಾತ್ರವಲ್ಲ.\nಮಾನವನ ಪ್ರಗತಿಯ ಹಂತಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.\nಇಸವಿಗಳನ್ನು ಕಂಠಪಾಠ ಮಾಡುವುದಕ್ಕಿಂತ ಅವು ಘಟನೆಗಳ ಕಾಲಾನುಕ್ರಮವನ್ನು ಹೇಗೆ ಸೂಚಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "m5_c8",
+      "order": 8,
+      "chunk_type": "recap",
+      "script": "ಈ ಮೂಲಕ, ಇತಿಹಾಸದ ಅಧ್ಯಯನಕ್ಕೆ ಬೇಕಾದ ಅಡಿಪಾಯವನ್ನು ನಾವು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಆಧಾರಗಳ ಪ್ರಕಾರಗಳು, ಅವುಗಳ ವಿಶ್ಲೇಷಣೆ, ಮತ್ತು ಭೌಗೋಳಿಕ ಅಂಶಗಳು ಇತಿಹಾಸವನ್ನು ಹೇಗೆ ರೂಪಿಸುತ್ತವೆ ಎಂಬುದರ ಬಗ್ಗೆ ತಿಳುವಳಿಕೆ ಮೂಡುತ್ತದೆ. ಸಾಹಿತ್ಯಕ ಮತ್ತು ಪುರಾತತ್ವ ಆಧಾರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಮತ್ತು ಅವುಗಳು ಹೇಗೆ ಒಂದಕ್ಕೊಂದು ಪೂರಕವಾಗಿವೆ ಎಂಬುದನ್ನು ಗಮನಿಸಬೇಕು. 'ಆಧಾರಗಳಿಲ್ಲದೆ ಇತಿಹಾಸವಿಲ್ಲ' ಎಂಬ ಪರಿಕಲ್ಪನೆಯನ್ನು ಇದು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಇತಿಹಾಸವು ಕೇವಲ ರಾಜರ ಕಥೆಯಲ್ಲ, ಅದು ಸಾಮಾನ್ಯ ಜನರ ಜೀವನ, ಸಮಾಜ, ಮತ್ತು ಸಂಸ್ಕೃತಿಯ ಅಧ್ಯಯನವೂ ಹೌದು ಎಂಬುದನ್ನು ನಾವು ಮನಗಾಣಬೇಕು.",
+      "display": {
+        "title": "ಅಂತಿಮ ಸಾರಾಂಶ",
+        "markdown": "ಇತಿಹಾಸದ ಅಧ್ಯಯನಕ್ಕೆ ಬೇಕಾದ ಅಡಿಪಾಯವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು.\nಆಧಾರಗಳ ಪ್ರಕಾರಗಳು ಮತ್ತು ಅವುಗಳ ವಿಶ್ಲೇಷಣೆ ಮಹತ್ವದವು.\nಸಾಹಿತ್ಯಕ ಮತ್ತು ಪುರಾತತ್ವ ಆಧಾರಗಳ ವ್ಯತ್ಯಾಸ ಮತ್ತು ಪೂರಕತೆ ಗಮನಿಸಬೇಕು.\nಇತಿಹಾಸವು ಸಾಮಾನ್ಯ ಜನರ ಜೀವನ, ಸಮಾಜ, ಸಂಸ್ಕೃತಿಯ ಅಧ್ಯಯನವೂ ಹೌದು.",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಇತಿಹಾಸದ ಅಧ್ಯಯನದ ಅಡಿಪಾಯ",
+        "detailed_description": "A conceptual diagram showing the foundation of history study: sources (literary and archaeological), their analysis, and the role of geography, leading to understanding society and culture.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    }
+  ]
+}

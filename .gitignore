@@ -1,0 +1,54 @@
+# =========================
+# PDFs
+# =========================
+10th Kan SS Part-1 2025-26.pdf
+10th Kan SS Part-2 2025-26.pdf
+6th Kan SS Part -2 2025-26.pdf
+6th Kan SS Part-1.pdf
+7th Kan SS  Part-1 2025-26.pdf
+7th Kan SS  Part-2 2025-26.pdf
+8th Kan SS Part-1.pdf
+8th Kan SS Part-2.pdf
+9th Kan SS Part-1 2025-26.pdf
+9th Kan SS Part-2 2025-26.pdf
+ancient_india.pdf
+temp_title.pdf
+
+# =========================
+# Current Python files
+# =========================
+bulk_generate_audio.py
+clean_punctuation_bulk.py
+create_sequence_josn.py
+create_sequence_pdf.py
+delete_backups.py
+delete_chunks.py
+estimate_mins.py
+fb_v2.py
+generate_chunks.py
+generate_Elite_bulk.py
+generate_master_data.py
+generate_modules.py
+tree.py
+validate_master_data.py
+
+# =========================
+# Python environment
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db

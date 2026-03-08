@@ -1,0 +1,176 @@
+{
+  "chapter_title": "ವೇದಕಾಲದ ಸಂಸ್ಕೃತಿ",
+  "module_id": "m1",
+  "module_title": "ವೇದ ಸಾಹಿತ್ಯ: ಪರಿಚಯ ಮತ್ತು ಕಾಲ ವಿಂಗಡಣೆ",
+  "target_exam": "GPSTR",
+  "chunks": [
+    {
+      "chunk_id": "c1",
+      "order": 1,
+      "chunk_type": "intro",
+      "script": "ವೇದಕಾಲದ ಸಂಸ್ಕೃತಿಯು ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿ ಮಧ್ಯ ಏಷ್ಯಾದಿಂದ ವಲಸೆ ಬಂದ ಆರ್ಯ ಜನಾಂಗದ ಆಗಮನದೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಯಿತು. ಈ ಕಾಲದ ಇತಿಹಾಸವನ್ನು ಅರಿಯಲು ವೇದ ಸಾಹಿತ್ಯವೇ ಪ್ರಮುಖ ಆಧಾರವಾಗಿದೆ. 'ವೇದ' ಎಂಬ ಪದವು ಸಂಸ್ಕೃತದ 'ವಿದ್' ಧಾತುವಿನಿಂದ ಬಂದಿದ್ದು, 'ಜ್ಞಾನ' ಎಂದು ಅರ್ಥ.",
+      "display": {
+        "title": "ವೇದಕಾಲದ ಸಂಸ್ಕೃತಿಯ ಆರಂಭ",
+        "markdown": "ಮಧ್ಯ ಏಷ್ಯಾದಿಂದ ವಲಸೆ ಬಂದ ಆರ್ಯ ಜನಾಂಗದ ಆಗಮನ\nವೇದ ಸಾಹಿತ್ಯವೇ ಪ್ರಮುಖ ಆಧಾರ\n'ವೇದ' ಪದದ ಅರ್ಥ: ಜ್ಞಾನ",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c2",
+      "order": 2,
+      "chunk_type": "structure_explanation",
+      "script": "ವೇದಕಾಲದ ಒಟ್ಟು ಅವಧಿಯನ್ನು ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಒಂದು ಸಾವಿರದ ಐನೂರರಿಂದ ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಏಳನೂರರವರೆಗೆ ಗುರುತಿಸಲಾಗಿದೆ. ಈ ಕಾಲಘಟ್ಟವನ್ನು ಎರಡು ಪ್ರಮುಖ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಮೊದಲನೆಯದು, ಪೂರ್ವ ವೇದಕಾಲ ಅಥವಾ ಋಗ್ವೇದ ಕಾಲ. ಈ ಕಾಲದ ಅಧ್ಯಯನಕ್ಕೆ ಋಗ್ವೇದವೇ ಮುಖ್ಯ ಆಧಾರ. ಎರಡನೆಯದು, ಉತ್ತರ ವೇದಕಾಲ. ಈ ಕಾಲದ ಅಧ್ಯಯನಕ್ಕೆ ಯಜುರ್ವೇದ, ಸಾಮವೇದ ಮತ್ತು ಅಥರ್ವಣ ವೇದಗಳು ಆಧಾರಗಳಾಗಿವೆ.",
+      "display": {
+        "title": "ವೇದಕಾಲದ ಅವಧಿ ಮತ್ತು ವಿಂಗಡಣೆ",
+        "markdown": "ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ 1500 ರಿಂದ 700\nಎರಡು ಭಾಗಗಳು: ಪೂರ್ವ ವೇದಕಾಲ, ಉತ್ತರ ವೇದಕಾಲ\nಪೂರ್ವ ವೇದಕಾಲ: ಋಗ್ವೇದ\nಉತ್ತರ ವೇದಕಾಲ: ಯಜುರ್ವೇದ, ಸಾಮವೇದ, ಅಥರ್ವಣ ವೇದ",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ವೇದಕಾಲದ ಅವಧಿ ಮತ್ತು ವಿಭಾಗಗಳ ಹೈರಾರ್ಕಿ",
+        "detailed_description": "A timeline or flowchart showing: 1. ವೇದಕಾಲ (1500 BCE - 700 BCE) split into two branches: a) ಪೂರ್ವ ವೇದಕಾಲ (ಋಗ್ವೇದ ಕಾಲ) with source: ಋಗ್ವೇದ, b) ಉತ್ತರ ವೇದಕಾಲ with sources: ಯಜುರ್ವೇದ, ಸಾಮವೇದ, ಅಥರ್ವಣ ವೇದ.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c3",
+      "order": 3,
+      "chunk_type": "concept_explanation",
+      "script": "ವೇದಗಳಲ್ಲಿ ಋಗ್ವೇದವು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ವೇದವಾಗಿದೆ. ಇದು ಒಂದು ಸಾವಿರದ ಇಪ್ಪತ್ತೆಂಟು ಸೂಕ್ತಗಳನ್ನು ಅಂದರೆ ಸ್ತೋತ್ರಗಳನ್ನು ಮತ್ತು ಹತ್ತು ಮಂಡಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದರಲ್ಲಿ ಪ್ರಕೃತಿ ಮತ್ತು ದೇವತೆಗಳನ್ನು ಆರಾಧಿಸುವ ಸ್ತೋತ್ರಗಳಿವೆ. ಈ ಸ್ತೋತ್ರಗಳನ್ನು ಪಠಿಸುವವರನ್ನು 'ಹೋತ್ರಿ' ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು.",
+      "display": {
+        "title": "ಋಗ್ವೇದದ ವೈಶಿಷ್ಟ್ಯಗಳು",
+        "markdown": "ಅತ್ಯಂತ ಪ್ರಾಚೀನ ವೇದ: ಋಗ್ವೇದ\n1028 ಸೂಕ್ತಗಳು, 10 ಮಂಡಲಗಳು\nಪ್ರಕೃತಿ ಮತ್ತು ದೇವತೆಗಳ ಆರಾಧನೆ\nಸ್ತೋತ್ರ ಪಠಕರು: ಹೋತ್ರಿ",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಋಗ್ವೇದದ ರಚನೆ ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳ ಹೈರಾರ್ಕಿ",
+        "detailed_description": "A hierarchical diagram showing: ಋಗ್ವೇದ → 1028 ಸೂಕ್ತಗಳು (ಸ್ತೋತ್ರಗಳು), 10 ಮಂಡಲಗಳು; includes arrows to 'ಪ್ರಕೃತಿ ಮತ್ತು ದೇವತೆಗಳ ಆರಾಧನೆ' and 'ಹೋತ್ರಿ'.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c4",
+      "order": 4,
+      "chunk_type": "concept_explanation",
+      "script": "ಯಜುರ್ವೇದವು ಯಜ್ಞ-ಯಾಗಾದಿಗಳ ವಿಧಿವಿಧಾನಗಳನ್ನು ವಿವರಿಸುವ ಮಂತ್ರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+      "display": {
+        "title": "ಯಜುರ್ವೇದದ ವೈಶಿಷ್ಟ್ಯ",
+        "markdown": "ಯಜ್ಞ-ಯಾಗಾದಿಗಳ ವಿಧಿವಿಧಾನಗಳ ವಿವರಣೆ",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "c5",
+      "order": 5,
+      "chunk_type": "concept_explanation",
+      "script": "ಸಾಮವೇದವು ಯಜ್ಞದ ಸಂದರ್ಭದಲ್ಲಿ ರಾಗಬದ್ಧವಾಗಿ ಹಾಡಬೇಕಾದ ಮಂತ್ರಗಳ ಸಂಕಲನವಾಗಿದೆ. ಇದನ್ನು ಭಾರತೀಯ ಸಂಗೀತದ ಮೂಲವೆಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ.",
+      "display": {
+        "title": "ಸಾಮವೇದದ ವೈಶಿಷ್ಟ್ಯ",
+        "markdown": "ಯಜ್ಞದ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಮಂತ್ರಗಳ ಸಂಕಲನ\nಭಾರತೀಯ ಸಂಗೀತದ ಮೂಲ",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "c6",
+      "order": 6,
+      "chunk_type": "concept_explanation",
+      "script": "ಅಥರ್ವಣ ವೇದದಲ್ಲಿ ದಿನನಿತ್ಯದ ಬದುಕಿಗೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯಗಳು, ಔಷಧಿಗಳು, ಮತ್ತು ಮಾಟ-ಮಂತ್ರಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಗಳಿವೆ.",
+      "display": {
+        "title": "ಅಥರ್ವಣ ವೇದದ ವೈಶಿಷ್ಟ್ಯ",
+        "markdown": "ದಿನನಿತ್ಯದ ಬದುಕಿಗೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯಗಳು\nಔಷಧಿಗಳು ಮತ್ತು ಮಾಟ-ಮಂತ್ರಗಳ ಮಾಹಿತಿ",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    },
+    {
+      "chunk_id": "c7",
+      "order": 7,
+      "chunk_type": "event_analysis",
+      "script": "ವೇದಕಾಲದ ಆರಂಭಿಕ ಸಂಸ್ಕೃತಿಯು ಸರಸ್ವತಿ ನದಿ ಬಯಲಿನಲ್ಲಿ ವಿಕಸನಗೊಂಡು, ನಂತರ ಗಂಗಾ-ಯಮುನಾ ನದಿ ಬಯಲಿಗೆ ವಿಸ್ತರಿಸಿತು. ಋಗ್ವೇದದಲ್ಲಿ 'ಸರಸ್ವತಿ' ನದಿಯು ಅತಿ ಹೆಚ್ಚು ಬಾರಿ ಉಲ್ಲೇಖಗೊಂಡಿದೆ. ಪ್ರಸ್ತುತ ಕಣ್ಮರೆಯಾಗಿರುವ ರಾಜಸ್ಥಾನದ 'ಘಗ್ಗರ್-ಹಕ್ರಾ' ನದಿಯೇ ಪ್ರಾಚೀನ ಸರಸ್ವತಿ ಎಂದು, ಅಥವಾ ಆಫ್ಘಾನಿಸ್ತಾನದ 'ಹೇಲ್ಮಂಡ್' ನದಿಯೇ ಸರಸ್ವತಿ ಎಂಬ ವಿಭಿನ್ನ ಅಭಿಪ್ರಾಯಗಳಿವೆ. ಸಾವಿರಾರು ವರ್ಷಗಳ ಕಾಲ ಈ ವೇದಗಳು ಮೌಖಿಕ ಪರಂಪರೆಯ ಮೂಲಕವೇ ಒಂದು ತಲೆಮಾರಿನಿಂದ ಇನ್ನೊಂದು ತಲೆಮಾರಿಗೆ ಹಸ್ತಾಂತರಗೊಂಡು ಬಂದಿದ್ದವು.",
+      "display": {
+        "title": "ವೇದಕಾಲದ ಭೌಗೋಳಿಕ ವಿಸ್ತರಣೆ",
+        "markdown": "ಆರಂಭ: ಸರಸ್ವತಿ ನದಿ ಬಯಲು\nವಿಸ್ತರಣೆ: ಗಂಗಾ-ಯಮುನಾ ನದಿ ಬಯಲು\n'ಸರಸ್ವತಿ' ನದಿಯ ವಿವಿಧ ಅಭಿಪ್ರಾಯಗಳು\nಮೌಖಿಕ ಪರಂಪರೆ ಮೂಲಕ ಹಸ್ತಾಂತರ",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ವೇದಕಾಲದ ಭೌಗೋಳಿಕ ವಿಸ್ತರಣೆ ಮತ್ತು ಸರಸ್ವತಿ ನದಿಯ ಕುರಿತು ಅಭಿಪ್ರಾಯಗಳ ಹೈರಾರ್ಕಿ",
+        "detailed_description": "A flow diagram showing: 1. Early Vedic culture → Sarasvati river basin → expansion to Ganga-Yamuna basin. Side notes: 'Sarasvati' mentioned most in Rigveda; two opinions: a) Ghaggar-Hakra (Rajasthan), b) Helmand (Afghanistan). Oral tradition arrow showing transmission across generations.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c8",
+      "order": 8,
+      "chunk_type": "concept_explanation",
+      "script": "ವೇದ ಸಾಹಿತ್ಯವು ಕೇವಲ ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳಾಗಿರದೆ, ಆ ಕಾಲದ ಜನರ ಜೀವನ ವಿಧಾನ, ಸಾಮಾಜಿಕ ರಚನೆ, ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳು ಮತ್ತು ರಾಜಕೀಯ ಸಂಘಟನೆಗಳ ಬಗ್ಗೆ ಅಮೂಲ್ಯವಾದ ಒಳನೋಟಗಳನ್ನು ನೀಡುವ ಐತಿಹಾಸಿಕ ಆಕರವಾಗಿದೆ.",
+      "display": {
+        "title": "ವೇದ ಸಾಹಿತ್ಯದ ಮಹತ್ವ",
+        "markdown": "ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳಷ್ಟೇ ಅಲ್ಲ\nಜೀವನ ವಿಧಾನ, ಸಾಮಾಜಿಕ ರಚನೆ, ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳು\nರಾಜಕೀಯ ಸಂಘಟನೆಗಳ ಬಗ್ಗೆ ಒಳನೋಟ",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.3
+      }
+    }
+  ]
+}

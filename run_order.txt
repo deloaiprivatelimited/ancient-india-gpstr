@@ -1,0 +1,11 @@
+python create_sequence_josn.py
+python create_sequence_pdf.py
+python generate_master_data.py 
+python validate_master_data.py
+python generate_modules.py
+python generate_Elite_bulk.py
+python estimate_mins.py   
+python generate_chunks.py
+python clean_punctuation_bulk.py
+python delete_backups.py 
+python bulk_generate_audio.py

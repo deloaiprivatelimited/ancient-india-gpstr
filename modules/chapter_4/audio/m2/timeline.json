@@ -1,0 +1,101 @@
+[
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_0.wav",
+    "start": 0,
+    "end": 11.85,
+    "duration": 11.85,
+    "display": {
+      "title": "ಪೂರ್ವ ವೇದಕಾಲದ ಸಮಾಜದ ಸ್ವರೂಪ",
+      "markdown": "ಸರಳ ಮತ್ತು ಸಂಘಟಿತ ಸಮಾಜ\nವಿಕೇಂದ್ರೀಕೃತ ರಾಜಕೀಯ ವ್ಯವಸ್ಥೆ\nಜನಾಂಗೀಯ ಸಭೆಗಳ ಪ್ರಮುಖ ಪಾತ್ರ",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_1.wav",
+    "start": 12.25,
+    "end": 23.5,
+    "duration": 11.25,
+    "display": {
+      "title": "ಸಾಮಾಜಿಕ ಜೀವನ",
+      "markdown": "ಕುಟುಂಬವು ಮೂಲ ಘಟಕ\nಪಿತೃಪ್ರಧಾನ ವ್ಯವಸ್ಥೆ\nಅವಿಭಕ್ತ ಕುಟುಂಬ ಪದ್ಧತಿ",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_2.wav",
+    "start": 23.9,
+    "end": 42.86,
+    "duration": 18.95,
+    "display": {
+      "title": "ವರ್ಣವ್ಯವಸ್ಥೆ",
+      "markdown": "'ಪುರುಷಸೂಕ್ತ'ದಲ್ಲಿ ವರ್ಣವ್ಯವಸ್ಥೆ ಉಲ್ಲೇಖ\nವೃತ್ತಿಯ ಆಧಾರದ ಮೇಲೆ ನಿರ್ಧಾರ\nನಾಲ್ಕು ವಿಭಾಗಗಳು: ಬ್ರಾಹ್ಮಣ, ಕ್ಷತ್ರಿಯ, ವೈಶ್ಯ, ಶೂದ್ರ\nಕಠಿಣ ನಿಯಮಗಳಿಲ್ಲ",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_3.wav",
+    "start": 43.26,
+    "end": 65.02,
+    "duration": 21.77,
+    "display": {
+      "title": "ಮಹಿಳೆಯರ ಸ್ಥಾನ",
+      "markdown": "ಗೌರವಾನ್ವಿತ ಸ್ಥಾನ\nಶಿಕ್ಷಣ ಮತ್ತು ರಾಜಕೀಯದಲ್ಲಿ ಭಾಗವಹಿಸುವಿಕೆ\nಅನಿಷ್ಟ ಪದ್ಧತಿಗಳ ಕೊರತೆ\nಮಹಿಳಾ ವಿದ್ವಾಂಸಿಯರು",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_4.wav",
+    "start": 65.42,
+    "end": 91.88,
+    "duration": 26.46,
+    "display": {
+      "title": "ರಾಜಕೀಯ ವ್ಯವಸ್ಥೆ",
+      "markdown": "'ರಾಜನ್' ಎಂಬ ಮುಖ್ಯಸ್ಥ\nಅನಿಯಮಿತ ಅಧಿಕಾರವಿಲ್ಲ\n'ಸಭಾ', 'ಸಮಿತಿ', 'ವಿಧಾತ' ಸಂಸ್ಥೆಗಳು\nರಾಜನ ಜವಾಬ್ದಾರಿಗಳು",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_5.wav",
+    "start": 92.28,
+    "end": 101.45,
+    "duration": 9.17,
+    "display": {
+      "title": "ಆರ್ಥಿಕತೆಯ ಮೂಲ",
+      "markdown": "ಪಶುಪಾಲನೆ ಮುಖ್ಯ ಆಧಾರ\nಕೃಷಿ ಎರಡನೇ ಪ್ರಮುಖ ವೃತ್ತಿ",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_6.wav",
+    "start": 101.86,
+    "end": 131.46,
+    "duration": 29.61,
+    "display": {
+      "title": "ಆರ್ಥಿಕ ಜೀವನ",
+      "markdown": "ಪಶುಪಾಲನೆ ಮತ್ತು ಕೃಷಿ ಉದ್ಯೋಗಗಳು\nಹಸುಗಳು ಪ್ರಮುಖ ಸಂಪತ್ತು\nಕುಶಲಕರ್ಮಿಗಳು: ಬಡಗಿ, ಕಮ್ಮಾರ, ಕುಂಬಾರ\nವೃತ್ತಿ ಆಯ್ಕೆ ಸ್ವಾತಂತ್ರ್ಯ",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_7.wav",
+    "start": 131.86,
+    "end": 159.79,
+    "duration": 27.93,
+    "display": {
+      "title": "ಧಾರ್ಮಿಕ ಜೀವನ",
+      "markdown": "ಪ್ರಕೃತಿ ಆರಾಧನೆ ಮತ್ತು ಯಜ್ಞಗಳು\nಇಂದ್ರ, ಅಗ್ನಿ, ಸೂರ್ಯ ಮುಂತಾದ ದೇವತೆಗಳು\nಯಜ್ಞಗಳ ಮೂಲಕ ಪೂಜೆ",
+      "equations": []
+    }
+  },
+  {
+    "file": "modules\\chapter_4\\audio\\m2\\seg_8.wav",
+    "start": 160.19,
+    "end": 174.46,
+    "duration": 14.26,
+    "display": {
+      "title": "ವೇದಗಳ ತಾತ್ವಿಕ ಸಂದೇಶಗಳು",
+      "markdown": "ಸತ್ಯವು ಒಂದೇ, ಜ್ಞಾನಿಗಳು ವಿಭಿನ್ನವಾಗಿ ವರ್ಣನೆ\nವಿಶ್ವದ ಎಲ್ಲ ಮೂಲೆಗಳಿಂದ ಉತ್ತಮ ವಿಚಾರಗಳು ಬರಲಿ",
+      "equations": []
+    }
+  }
+]

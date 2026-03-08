@@ -1,0 +1,92 @@
+{
+  "chapter_title": "ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಗಳು: ಸಿಂಧೂ-ಸರಸ್ವತಿ ಮತ್ತು ವೇದಗಳ ಕಾಲ",
+  "module_id": "m4",
+  "module_title": "ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಗಳ ತುಲನಾತ್ಮಕ ವಿಶ್ಲೇಷಣೆ",
+  "target_exam": "GPSTR",
+  "chunks": [
+    {
+      "chunk_id": "c1",
+      "order": 1,
+      "chunk_type": "intro",
+      "script": "ಭಾರತದ ಇತಿಹಾಸವು ಸಿಂಧೂ ಕಣಿವೆ ನಾಗರಿಕತೆಯೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಇದರ ಕಾಲಘಟ್ಟವು ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರರಿಂದ ಒಂದು ಸಾವಿರದ ಮುನ್ನೂರರವರೆಗೆ ವ್ಯಾಪಿಸಿತ್ತು. ಅದರ ನಂತರ ವೇದಗಳ ಕಾಲ ಬರುತ್ತದೆ. ಇದರ ಕಾಲಾವಧಿಯು ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಒಂದು ಸಾವಿರದ ಐನೂರಿಂದ ಐನೂರರವರೆಗೆ ಇತ್ತು.",
+      "display": {
+        "title": "ಭಾರತದ ಇತಿಹಾಸದ ಪ್ರಾರಂಭ",
+        "markdown": "ಸಿಂಧೂ ಕಣಿವೆ ನಾಗರಿಕತೆ\nಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಮೂರು ಸಾವಿರದ ಮುನ್ನೂರರಿಂದ ಒಂದು ಸಾವಿರದ ಮುನ್ನೂರರವರೆಗೆ\nವೇದಗಳ ಕಾಲ\nಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಒಂದು ಸಾವಿರದ ಐನೂರಿಂದ ಐನೂರರವರೆಗೆ",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಸಿಂಧೂ ಕಣಿವೆ ನಾಗರಿಕತೆ ಮತ್ತು ವೇದಗಳ ಕಾಲದ ಕಾಲಘಟ್ಟದ ಕಾಲರೇಖೆ",
+        "detailed_description": "A timeline showing: 1) Indus Valley Civilization from 3300 BCE to 1300 BCE, 2) Vedic Age from 1500 BCE to 500 BCE, with clear demarcation between the two periods.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c2",
+      "order": 2,
+      "chunk_type": "timeline_analysis",
+      "script": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯವು ಭಾರತದ ಮೊದಲ ಪ್ರಮುಖ ಸಾಮ್ರಾಜ್ಯವಾಗಿತ್ತು. ಇದು ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಮುನ್ನೂರ ಇಪ್ಪತ್ತೆರಡರಿಂದ ನೂರ ಎಂಬತ್ತೈದರವರೆಗೆ ಅಸ್ತಿತ್ವದಲ್ಲಿತ್ತು. ಈ ವಂಶದ ಪ್ರಸಿದ್ಧ ದೊರೆ ಅಶೋಕ. ಅವನ ಆಳ್ವಿಕೆಯ ಕಾಲ ಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಇನ್ನೂರ ಅರವತ್ತೆಂಟರಿಂದ ಇನ್ನೂರ ಮೂವತ್ತೆರಡು.",
+      "display": {
+        "title": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ ಮತ್ತು ಅಶೋಕ",
+        "markdown": "ಭಾರತದ ಮೊದಲ ಪ್ರಮುಖ ಸಾಮ್ರಾಜ್ಯ: ಮೌರ್ಯ\nಸಾಮಾನ್ಯ ಶಕ ಪೂರ್ವ ಮುನ್ನೂರ ಇಪ್ಪತ್ತೆರಡರಿಂದ ನೂರ ಎಂಬತ್ತೈದರವರೆಗೆ\nಅಶೋಕನ ಆಳ್ವಿಕೆ: ಶಕ ಪೂರ್ವ ಇನ್ನೂರ ಅರವತ್ತೆಂಟರಿಂದ ಇನ್ನೂರ ಮೂವತ್ತೆರಡು",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ ಮತ್ತು ಅಶೋಕನ ಆಳ್ವಿಕೆಯ ಕಾಲರೇಖೆ",
+        "detailed_description": "A timeline showing: 1) Maurya Empire from 322 BCE to 185 BCE, 2) Ashoka's reign from 268 BCE to 232 BCE, highlighted within the Maurya period.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c3",
+      "order": 3,
+      "chunk_type": "timeline_analysis",
+      "script": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಭಾರತದ ಸುವರ್ಣಯುಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದರ ಆಳ್ವಿಕೆಯು ಕ್ರಿಸ್ತ ಶಕ ಮುನ್ನೂರ ಇಪ್ಪತ್ತರಿಂದ ಐನೂರ ಐವತ್ತರವರೆಗೆ ನಡೆಯಿತು.",
+      "display": {
+        "title": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ: ಭಾರತದ ಸುವರ್ಣಯುಗ",
+        "markdown": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ: ಭಾರತದ ಸುವರ್ಣಯುಗ\nಆಳ್ವಿಕೆ: ಕ್ರಿಸ್ತ ಶಕ ಮುನ್ನೂರ ಇಪ್ಪತ್ತರಿಂದ ಐನೂರ ಐವತ್ತರವರೆಗೆ",
+        "equations": []
+      },
+      "visual": {
+        "type": "placeholder",
+        "alt_text": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ ಕಾಲಘಟ್ಟದ ಕಾಲರೇಖೆ",
+        "detailed_description": "A timeline showing the Gupta Empire from 320 CE to 550 CE, labeled as the Golden Age of India.",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_right_visual",
+      "animation": {
+        "pause_after": 0.5
+      }
+    },
+    {
+      "chunk_id": "c4",
+      "order": 4,
+      "chunk_type": "event_analysis",
+      "script": "ಈಸವಿ ಏಳು ನೂರ ಹನ್ನೆರಡರಲ್ಲಿ, ಅರಬ್ಬರು ಸಿಂಧ್ ಪ್ರಾಂತ್ಯವನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು.",
+      "display": {
+        "title": "ಅರಬ್ಬರ ಆಕ್ರಮಣ",
+        "markdown": "ಈಸವಿ 712ರಲ್ಲಿ ಅರಬ್ಬರು ಸಿಂಧ್ ಪ್ರಾಂತ್ಯವನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು",
+        "equations": []
+      },
+      "visual": {
+        "type": "none",
+        "alt_text": "",
+        "detailed_description": "",
+        "future_asset_id": ""
+      },
+      "layout": "left_text_only",
+      "animation": {
+        "pause_after": 0.5
+      }
+    }
+  ]
+}
